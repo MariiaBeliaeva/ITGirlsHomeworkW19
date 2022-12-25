@@ -13,7 +13,6 @@ class Worker {
     return this.rate * this.days;
   }
 }
-//console.log(getSalary());
 
 let worker = new Worker("Иван", "Иванов", 10, 31);
 
